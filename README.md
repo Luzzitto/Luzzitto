@@ -1,4 +1,4 @@
-# Hi there, I'm Luzzitto 👋
+# Hi there, I'm Luzzitto, janitor of my code 👋
 
 Welcome to my GitHub profile! Here you'll find my projects, contributions, and more about me.
 
